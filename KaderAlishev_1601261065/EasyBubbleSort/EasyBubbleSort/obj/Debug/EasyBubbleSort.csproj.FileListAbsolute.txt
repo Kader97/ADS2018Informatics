@@ -1,0 +1,7 @@
+D:\vs projects\EasyBubbleSort\EasyBubbleSort\bin\Debug\EasyBubbleSort.exe.config
+D:\vs projects\EasyBubbleSort\EasyBubbleSort\bin\Debug\EasyBubbleSort.exe
+D:\vs projects\EasyBubbleSort\EasyBubbleSort\bin\Debug\EasyBubbleSort.pdb
+D:\vs projects\EasyBubbleSort\EasyBubbleSort\obj\Debug\EasyBubbleSort.csprojAssemblyReference.cache
+D:\vs projects\EasyBubbleSort\EasyBubbleSort\obj\Debug\EasyBubbleSort.csproj.CoreCompileInputs.cache
+D:\vs projects\EasyBubbleSort\EasyBubbleSort\obj\Debug\EasyBubbleSort.exe
+D:\vs projects\EasyBubbleSort\EasyBubbleSort\obj\Debug\EasyBubbleSort.pdb

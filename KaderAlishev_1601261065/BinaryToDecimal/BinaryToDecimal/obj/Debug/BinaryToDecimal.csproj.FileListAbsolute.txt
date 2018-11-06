@@ -1,0 +1,7 @@
+D:\vs projects\BinaryToDecimal\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe.config
+D:\vs projects\BinaryToDecimal\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe
+D:\vs projects\BinaryToDecimal\BinaryToDecimal\bin\Debug\BinaryToDecimal.pdb
+D:\vs projects\BinaryToDecimal\BinaryToDecimal\obj\Debug\BinaryToDecimal.csprojAssemblyReference.cache
+D:\vs projects\BinaryToDecimal\BinaryToDecimal\obj\Debug\BinaryToDecimal.csproj.CoreCompileInputs.cache
+D:\vs projects\BinaryToDecimal\BinaryToDecimal\obj\Debug\BinaryToDecimal.exe
+D:\vs projects\BinaryToDecimal\BinaryToDecimal\obj\Debug\BinaryToDecimal.pdb
