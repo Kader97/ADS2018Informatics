@@ -1,0 +1,11 @@
+D:\vs projects\Recursion simulation\Recursion simulation\obj\Debug\netcoreapp2.1\Recursion simulation.csprojAssemblyReference.cache
+D:\vs projects\Recursion simulation\Recursion simulation\obj\Debug\netcoreapp2.1\Recursion simulation.csproj.CoreCompileInputs.cache
+D:\vs projects\Recursion simulation\Recursion simulation\obj\Debug\netcoreapp2.1\Recursion simulation.AssemblyInfoInputs.cache
+D:\vs projects\Recursion simulation\Recursion simulation\obj\Debug\netcoreapp2.1\Recursion simulation.AssemblyInfo.cs
+D:\vs projects\Recursion simulation\Recursion simulation\bin\Debug\netcoreapp2.1\Recursion simulation.deps.json
+D:\vs projects\Recursion simulation\Recursion simulation\bin\Debug\netcoreapp2.1\Recursion simulation.runtimeconfig.json
+D:\vs projects\Recursion simulation\Recursion simulation\bin\Debug\netcoreapp2.1\Recursion simulation.runtimeconfig.dev.json
+D:\vs projects\Recursion simulation\Recursion simulation\bin\Debug\netcoreapp2.1\Recursion simulation.dll
+D:\vs projects\Recursion simulation\Recursion simulation\bin\Debug\netcoreapp2.1\Recursion simulation.pdb
+D:\vs projects\Recursion simulation\Recursion simulation\obj\Debug\netcoreapp2.1\Recursion simulation.dll
+D:\vs projects\Recursion simulation\Recursion simulation\obj\Debug\netcoreapp2.1\Recursion simulation.pdb
