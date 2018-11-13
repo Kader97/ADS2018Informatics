@@ -1,0 +1,11 @@
+D:\vs projects\QuickSortMethodsForComparing\QuickSortMethodsForComparing\bin\Debug\netcoreapp2.1\QuickSortMethodsForComparing.deps.json
+D:\vs projects\QuickSortMethodsForComparing\QuickSortMethodsForComparing\bin\Debug\netcoreapp2.1\QuickSortMethodsForComparing.runtimeconfig.json
+D:\vs projects\QuickSortMethodsForComparing\QuickSortMethodsForComparing\bin\Debug\netcoreapp2.1\QuickSortMethodsForComparing.runtimeconfig.dev.json
+D:\vs projects\QuickSortMethodsForComparing\QuickSortMethodsForComparing\bin\Debug\netcoreapp2.1\QuickSortMethodsForComparing.dll
+D:\vs projects\QuickSortMethodsForComparing\QuickSortMethodsForComparing\bin\Debug\netcoreapp2.1\QuickSortMethodsForComparing.pdb
+D:\vs projects\QuickSortMethodsForComparing\QuickSortMethodsForComparing\obj\Debug\netcoreapp2.1\QuickSortMethodsForComparing.csprojAssemblyReference.cache
+D:\vs projects\QuickSortMethodsForComparing\QuickSortMethodsForComparing\obj\Debug\netcoreapp2.1\QuickSortMethodsForComparing.csproj.CoreCompileInputs.cache
+D:\vs projects\QuickSortMethodsForComparing\QuickSortMethodsForComparing\obj\Debug\netcoreapp2.1\QuickSortMethodsForComparing.AssemblyInfoInputs.cache
+D:\vs projects\QuickSortMethodsForComparing\QuickSortMethodsForComparing\obj\Debug\netcoreapp2.1\QuickSortMethodsForComparing.AssemblyInfo.cs
+D:\vs projects\QuickSortMethodsForComparing\QuickSortMethodsForComparing\obj\Debug\netcoreapp2.1\QuickSortMethodsForComparing.dll
+D:\vs projects\QuickSortMethodsForComparing\QuickSortMethodsForComparing\obj\Debug\netcoreapp2.1\QuickSortMethodsForComparing.pdb

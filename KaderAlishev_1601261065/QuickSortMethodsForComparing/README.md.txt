@@ -1,0 +1,1 @@
+Methods for comparing quick sorts in c#.Use Visual studio to open the project.
